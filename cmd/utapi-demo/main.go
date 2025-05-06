@@ -1,7 +1,7 @@
 package main
 
 import (
-	ut "github.com/r0ld3x/utapi-go/api"
+	ut "github.com/r0ld3x/utapi-go"
 )
 
 func main() {
