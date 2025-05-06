@@ -1,0 +1,8 @@
+.env
+scripts/
+utapi-go
+tmp/
+tmp/*
+*.log
+
+.vscode/settings.json
